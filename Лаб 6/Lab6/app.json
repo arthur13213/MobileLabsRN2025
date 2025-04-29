@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "AuthApp",
+    "slug": "AuthApp",
+    "android": {
+      "package": "com.yourcompany.authapp",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.authapp",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
+  }
+}
